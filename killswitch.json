@@ -1,0 +1,8 @@
+{
+  "all_apps": {
+    "enabled": true
+  },
+  "GIS_Backup_Automater": {
+    "enabled": false
+  }
+}
