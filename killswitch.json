@@ -3,6 +3,6 @@
     "enabled": true
   },
   "GIS_Backup_Automater": {
-    "enabled": true
+    "enabled": false
   }
 }
