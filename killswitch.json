@@ -1,8 +1,11 @@
 {
   "all_apps": {
-    "enabled": true
+    "enabled": false
   },
   "GIS_Backup_Automater": {
+    "enabled": false
+  },
+  "Carlos_GIS_Uploader_v1_0": {
     "enabled": true
   }
 }
