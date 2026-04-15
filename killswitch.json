@@ -12,9 +12,12 @@
     "enabled": false
   },
   "Carlos_GIS_Uploader_v1_2": {
-    "enabled": true
+    "enabled": false
   },
     "Carlos_GIS_Uploader_v1_3": {
+    "enabled": true
+  },
+    "Carlos_GIS_Uploader_v1_4": {
     "enabled": true
   }
 }
