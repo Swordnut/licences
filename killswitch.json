@@ -2,6 +2,9 @@
   "all_apps": {
     "enabled": false
   },
+  "Carlos_Prime_v0_0": {
+    "enabled": true
+  },
   "GIS_Backup_Automater": {
     "enabled": false
   },
@@ -15,7 +18,7 @@
     "enabled": false
   },
     "Carlos_GIS_Uploader_v1_3": {
-    "enabled": true
+    "enabled": false
   },
     "Carlos_GIS_Uploader_v1_4": {
     "enabled": true
